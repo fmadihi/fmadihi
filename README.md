@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/fmadihi/fmadihi/blob/main/pic-01.jpg)
 <h1 align="center">Hi 👋, I'm Fatemeh Madihi</h1>
 <h3 align="center">A passionate Front-end Developer from Iran</h3>
 

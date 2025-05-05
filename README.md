@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<p align="left"> <img <!--src="https://komarev.com/ghpvc/?username=fmadihi&label=Profile%20views&color=0e75b6&style=flat"--> src="https://www.blog.greenweb.ir/greencontent/uploads/2018/12/programming.jpg" alt="fmadihi" /> </p>
+<p align="left"> <img src="https://www.blog.greenweb.ir/greencontent/uploads/2018/12/programming.jpg" alt="fmadihi" /> </p>
 
 - 🌱 I’m currently learning **node.js**
 

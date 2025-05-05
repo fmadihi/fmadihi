@@ -6,13 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmadihi&label=Profile%20views&color=0e75b6&style=flat" alt="fmadihi" /> </p>
 
-- 🌱 I’m currently learning **node.js**
+- 🔭 I’m currently working in **Arya Transfo Company**
 
-- 💬 Ask me about **javascript, react**
+- 🌱 I’m currently learning **Node js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/fmadihi](https://github.com/fmadihi)
+
+- 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **fmadihi.2011@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Hardworking and responsible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

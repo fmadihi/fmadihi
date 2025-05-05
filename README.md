@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Madihi</h1>
 <h3 align="center">A passionate Front-end Developer from Iran</h3>
 
-<img align="right" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" src="https://komarev.com/ghpvc/?username=fmadihi&label=Profile%20views&color=0e75b6&style=flat" >
 
 <p align="left"> <img src="https://www.blog.greenweb.ir/greencontent/uploads/2018/12/programming.jpg" alt="fmadihi" /> </p>
 

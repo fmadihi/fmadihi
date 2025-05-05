@@ -1,7 +1,9 @@
 ![logo](https://github.com/fmadihi/fmadihi/blob/main/frontend_development_banner.jpg)
 <h1 align="center">Hi 👋, I'm Fatemeh Madihi</h1>
 <h3 align="center">A passionate Front-end Developer from Iran</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fmadihi&label=Profile%20views&color=0e75b6&style=flat" alt="fmadihi" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fmadihi" alt="fmadihi" /></a> </p>
 <img align="right" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fmadihi&label=Profile%20views&color=0e75b6&style=flat" alt="fmadihi" /> </p>
